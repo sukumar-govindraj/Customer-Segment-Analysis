@@ -42,7 +42,26 @@ The dataset includes the following features:
 ![image](https://github.com/user-attachments/assets/ca112056-027f-447e-b19c-61412857bb9b)
 ![image](https://github.com/user-attachments/assets/c036e8ee-f60d-498d-a52f-13e52e9ebe3e)
 
-## Model Performance 
+## Cluster Analysis
+
+1. **customer segmentation based on CLV Analysis**
+  ![image](https://github.com/user-attachments/assets/dacc7cd4-89a7-432a-a631-8deeb738f3ed)
+  ![image](https://github.com/user-attachments/assets/76d8bb5a-b9bd-429a-b72a-aeb09ea548b2)
+  ![image](https://github.com/user-attachments/assets/ab6779a3-2de5-49ca-aefc-861dc7c7fc75)
+  ![image](https://github.com/user-attachments/assets/ad918381-e407-42e1-b9e7-98f3b95e2293)
+  ![image](https://github.com/user-attachments/assets/c7cddf73-aabe-4cfa-8822-aff82bf62937)
+  ![image](https://github.com/user-attachments/assets/9f92206f-1305-403b-8012-e701ab91b6dd)
+
+2. **customer segmentation based on RFM Analysis**
+![image](https://github.com/user-attachments/assets/13018d00-3570-415e-b1b3-68597e727034)
+![image](https://github.com/user-attachments/assets/2381937d-81a1-459c-8986-3ee2c397e8f8)
+![image](https://github.com/user-attachments/assets/908e826f-48c8-41f6-b886-0b45c4611925)
+
+4. **Profitability-driven Customer Clustering**
+![image](https://github.com/user-attachments/assets/b1cec6ee-97bc-4e72-a054-3ac4091eb5fc)
+![image](https://github.com/user-attachments/assets/d57e5d38-2823-488f-8ad3-643c8bce2583)
+![image](https://github.com/user-attachments/assets/64c05ff7-7689-4458-9a9e-0f7ea98ea6fd)
+
 
 ## Tools and Libraries Used
 
