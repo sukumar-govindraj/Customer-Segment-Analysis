@@ -28,13 +28,21 @@ The dataset includes the following features:
 
 ## EDA, Visualizations and Power BI Dashboard
 
-1. **Correlation Matrix**: A heatmap showing the correlation between different numeric features in the dataset.
-
-2. **Sales vs. Profit by Category**: A scatter plot depicting the relationship between Sales and Profit, colored by product category.
+1. **Sales vs. Profit by Category**: A scatter plot depicting the relationship between Sales and Profit, colored by product category.
+![image](https://github.com/user-attachments/assets/4b0c0cb7-34ef-483b-9100-7587c303e6a4)
 
 3. **Sales Distribution by Category**: A boxplot showing the distribution of sales across different product categories.
-  
+  ![image](https://github.com/user-attachments/assets/eb932e2b-9b56-4b89-a05b-7e7b035a466e)
+
 4. **Top 10 Products by Sales**: A bar chart highlighting the top 10 products based on total sales.
+ ![image](https://github.com/user-attachments/assets/02e88778-13d4-420c-86e1-e9e00bb6658e)
+
+**Power BI Dashboard**
+![image](https://github.com/user-attachments/assets/37f9635e-a7a9-4bb6-9c02-d1bca8eaaea6)
+![image](https://github.com/user-attachments/assets/ca112056-027f-447e-b19c-61412857bb9b)
+![image](https://github.com/user-attachments/assets/c036e8ee-f60d-498d-a52f-13e52e9ebe3e)
+
+## Model Performance 
 
 ## Tools and Libraries Used
 
