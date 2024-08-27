@@ -1,5 +1,5 @@
 
-# Sales Data Analysis Project
+# Customer Segmentation Analysis using sales data 
 
 ## Project Overview
 
@@ -26,19 +26,15 @@ The dataset includes the following features:
 - `Profit`: The profit earned from the order
 - `CoGS`: Cost of Goods Sold
 
-## EDA and Visualizations
+## EDA, Visualizations and Power BI Dashboard
 
 1. **Correlation Matrix**: A heatmap showing the correlation between different numeric features in the dataset.
-   ![Correlation Matrix](correlation_matrix.png)
 
 2. **Sales vs. Profit by Category**: A scatter plot depicting the relationship between Sales and Profit, colored by product category.
-   ![Sales vs. Profit by Category](sales_vs_profit.png)
 
 3. **Sales Distribution by Category**: A boxplot showing the distribution of sales across different product categories.
-   ![Sales Distribution by Category](sales_distribution_by_category.png)
-
+  
 4. **Top 10 Products by Sales**: A bar chart highlighting the top 10 products based on total sales.
-   ![Top 10 Products by Sales](top_10_products_by_sales.png)
 
 ## Tools and Libraries Used
 
